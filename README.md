@@ -212,8 +212,9 @@ customer-shopping-behavior-analysis/
 ├── dashboard/
 │   └── customer_purchase_dashboard.pbix
 │
-├── images/
-│   └── customer_purchase_dashboard.png
+├── presentation/
+│   └── Customer-Shopping-Behavior-Analysis.pptx
+|
 │
 ├── README.md
 └── requirements.txt
