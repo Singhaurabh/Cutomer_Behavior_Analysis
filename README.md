@@ -227,6 +227,6 @@ This project demonstrates an end-to-end data analytics workflow from data prepar
 
 ## 👤 Author
 
-**Your Name**
+**Saurabh Singh**
 
 Data Analyst | Python | SQL | MySQL | Power BI
